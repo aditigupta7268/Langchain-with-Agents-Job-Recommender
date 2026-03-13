@@ -1,0 +1,19 @@
+Machine Learning Engineer
+Skills: Python, Machine Learning, TensorFlow, PyTorch
+Description: Develop ML models and deploy them in production systems.
+
+Data Scientist
+Skills: Python, SQL, Statistics, Machine Learning
+Description: Analyze data, build predictive models, and generate insights.
+
+AI Engineer
+Skills: Python, NLP, LangChain, LLM
+Description: Build AI applications using large language models.
+
+Backend Developer
+Skills: Python, FastAPI, SQL, Docker
+Description: Develop backend APIs and scalable services.
+
+Cloud Engineer
+Skills: AWS, Docker, Kubernetes, Linux
+Description: Build and maintain cloud infrastructure.
